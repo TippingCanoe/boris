@@ -3,7 +3,7 @@
     "description": "A tiny, but robust REPL (Read-Evaluate-Print-Loop) for PHP.",
     "license": "MIT",
     "require": {
-        "php": ">=5.3.0",
+        "php": ">=5.3.0"
     },
 	"suggest": {
 		"ext-readline": "*",
